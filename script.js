@@ -19,10 +19,10 @@ btns.forEach((btn) => {
         if (num > 0) {
             value.style.color = 'seagreen';
         } else if (num < 0) {
-            value.style.color = 'crimson'
-        } else {
-            value.style.color = 'white'
+            value.style.color = 'crimson';
         }
-
+        else {
+            value.style.color = '';
+        }
     })
 })
