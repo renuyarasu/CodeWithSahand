@@ -361,3 +361,9 @@ template {
 [hidden] {
   display: none;
 }
+
+
+
+
+.counter{}
+.value{ font-size: 6rem;}
